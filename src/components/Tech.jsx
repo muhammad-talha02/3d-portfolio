@@ -17,4 +17,4 @@ const Tech = () => {
   )
 }
 
-export default SectionWrapper(Tech, 'tech')
+export default SectionWrapper(Tech, 'skills')
